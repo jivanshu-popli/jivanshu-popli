@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 I'm Jivanshu Popli
-NSUT'24
+
+🏫 NSUT'24
 
 🌱 I’m currently learning new things
+
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 ![](https://github.com/jivanshu-popli/github-stats/blob/master/generated/overview.svg)
