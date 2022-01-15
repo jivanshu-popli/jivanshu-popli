@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 I'm Jivanshu Popli
 
 🏫 NSUT'24
