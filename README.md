@@ -8,7 +8,7 @@ I'm Jivanshu Popli
 
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
-![](https://github.com/jivanshu-popli/github-stats/blob/master/generated/overview.svg)
+![Jivanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jivanshu-popli&theme=light&show_icons=true)
 
 <!--
 **jivanshu-popli/jivanshu-popli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
